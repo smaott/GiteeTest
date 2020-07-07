@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':qqlist'
 rootProject.name='GiteeTest'
